@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Responsive Form</title>
+		<link href="https://fonts.googleapis.com/css?family=Bai+Jamjuree" rel="stylesheet"> 
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+
+
+	<body>
+		<div id="wrapper">
+			<h2>Responsive Form</h2>
+			<form id="form-wrapper">
+				
+				<section id="left-column">
+					<fieldset>
+						<legend>Block One</legend>
+						<p>
+							<input id="firstname" type="text" name="firstname" placeholder="First name" autofocus required>
+							<input id="lastname" type="text" name="lastname" placeholder="Last name" required>
+							<input id="email" type="email" name="email" placeholder="email@somewhere.com" required>
+							<input id="url" type="url" name="url" placeholder="URL">
+						</p>
+						<p>
+							<label for="username">Username:</label>
+							<input id="username" type="text" name="username">
+							<label for="password">Password:</label>
+							<input id="password" type="password" name="password">
+						</p>
+					</fieldset>
+					<fieldset>
+						<legend>Block Two</legend>
+						<p>
+							<input id="address1" type="text" name="address1" placeholder="Address 1">
+							<input id="address2" type="text" name="address2" placeholder="Address 2">
+							<input id="city" type="text" name="city" placeholder="city">
+							<input id="postcode" type="text" name="postcode" placeholder="Postcode">
+						</p>
+						<p>
+							<select>
+								<option value="" selected="selected">Select a Country</option>
+								<optgroup label="UK">
+									<option>England</option>
+									<option>Scotland</option>
+									<option>Wales</option>
+									<option>Northern Ireland</option>
+								</optgroup>
+								<optgroup label="Europe">
+									<option>Spain</option>
+									<option>France</option>
+									<option>Italy</option>
+								</optgroup>
+							</select>
+							<select id="county" name="county">
+								<option value="" selected="selected">Select a County</option>
+							    <optgroup label="England">
+							        <option>Bedfordshire</option>
+							        <option>Berkshire</option>
+							        <option>Bristol</option>
+							        <option>Buckinghamshire</option>
+							        <option>Cambridgeshire</option>
+							        <option>Cheshire</option>
+							        <option>City of London</option>
+							        <option>Cornwall</option>
+							        <option>Cumbria</option>
+							        <option>Derbyshire</option>
+							        <option>Devon</option>
+							        <option>Dorset</option>
+							        <option>Durham</option>
+							        <option>East Riding of Yorkshire</option>
+							        <option>East Sussex</option>
+							        <option>Essex</option>
+							        <option>Gloucestershire</option>
+							        <option>Greater London</option>
+							        <option>Greater Manchester</option>
+							        <option>Hampshire</option>
+							        <option>Herefordshire</option>
+							        <option>Hertfordshire</option>
+							        <option>Isle of Wight</option>
+							        <option>Kent</option>
+							        <option>Lancashire</option>
+							        <option>Leicestershire</option>
+							        <option>Lincolnshire</option>
+							        <option>Merseyside</option>
+							        <option>Norfolk</option>
+							        <option>North Yorkshire</option>
+							        <option>Northamptonshire</option>
+							        <option>Northumberland</option>
+							        <option>Nottinghamshire</option>
+							        <option>Oxfordshire</option>
+							        <option>Rutland</option>
+							        <option>Shropshire</option>
+							        <option>Somerset</option>
+							        <option>South Yorkshire</option>
+							        <option>Staffordshire</option>
+							        <option>Suffolk</option>
+							        <option>Surrey</option>
+							        <option>Tyne and Wear</option>
+							        <option>Warwickshire</option>
+							        <option>West Midlands</option>
+							        <option>West Sussex</option>
+							        <option>West Yorkshire</option>
+							        <option>Wiltshire</option>
+							        <option>Worcestershire</option>
+							    </optgroup>
+							    <optgroup label="Wales">
+							        <option>Anglesey</option>
+							        <option>Brecknockshire</option>
+							        <option>Caernarfonshire</option>
+							        <option>Carmarthenshire</option>
+							        <option>Cardiganshire</option>
+							        <option>Denbighshire</option>
+							        <option>Flintshire</option>
+							        <option>Glamorgan</option>
+							        <option>Merioneth</option>
+							        <option>Monmouthshire</option>
+							        <option>Montgomeryshire</option>
+							        <option>Pembrokeshire</option>
+							        <option>Radnorshire</option>
+							    </optgroup>
+							    <optgroup label="Scotland">
+							        <option>Aberdeenshire</option>
+							        <option>Angus</option>
+							        <option>Argyllshire</option>
+							        <option>Ayrshire</option>
+							        <option>Banffshire</option>
+							        <option>Berwickshire</option>
+							        <option>Buteshire</option>
+							        <option>Cromartyshire</option>
+							        <option>Caithness</option>
+							        <option>Clackmannanshire</option>
+							        <option>Dumfriesshire</option>
+							        <option>Dunbartonshire</option>
+							        <option>East Lothian</option>
+							        <option>Fife</option>
+							        <option>Inverness-shire</option>
+							        <option>Kincardineshire</option>
+							        <option>Kinross</option>
+							        <option>Kirkcudbrightshire</option>
+							        <option>Lanarkshire</option>
+							        <option>Midlothian</option>
+							        <option>Morayshire</option>
+							        <option>Nairnshire</option>
+							        <option>Orkney</option>
+							        <option>Peeblesshire</option>
+							        <option>Perthshire</option>
+							        <option>Renfrewshire</option>
+							        <option>Ross-shire</option>
+							        <option>Roxburghshire</option>
+							        <option>Selkirkshire</option>
+							        <option>Shetland</option>
+							        <option>Stirlingshire</option>
+							        <option>Sutherland</option>
+							        <option>West Lothian</option>
+							        <option>Wigtownshire</option>
+							    </optgroup>
+							    <optgroup label="Northern Ireland">
+							        <option>Antrim</option>
+							        <option>Armagh</option>
+							        <option>Down</option>
+							        <option>Fermanagh</option>
+							        <option>Londonderry</option>
+							        <option>Tyrone</option>
+							    </optgroup>
+							</select>
+						</p>
+					</fieldset>
+				</section>
+
+				<section id="right-column">
+					<fieldset>
+						<legend>Block Three</legend>
+						<p>
+							<span><input type="radio" name="color" value="red" checked="">Red</span>
+							<span><input type="radio" name="color" value="green">Green</span>
+							<span><input type="radio" name="color" value="blue">Blue</span>
+							<span><input type="radio" name="color" value="cyan">Cyan</span>
+							<span><input type="radio" name="color" value="magenta">Magenta</span>
+							<span><input type="radio" name="color" value="yellow">Yellow</span>
+						</p>
+						<p>
+							<span><input type="checkbox"  name="fruit" value="apple">Apple</span>
+							<span><input type="checkbox"  name="fruit" value="orange">Orange</span>
+							<span><input type="checkbox"  name="fruit" value="banana">Banana</span>
+							<span><input type="checkbox"  name="fruit" value="peach">Peach</span>
+							<span><input type="checkbox"  name="fruit" value="pear">Pear</span>
+						</p>
+
+					</fieldset>
+					<fieldset>
+						<legend>Block Four</legend>
+						<textarea rows="4" cols="40" placeholder="What did you do today?"></textarea>
+						<p><input type="submit" value="Submit" ></p>
+					</fieldset>
+				</section>
+				
+			</form>
+
+
+
+
+
+
+		</div>
+		<footer><img src="img/logo.png" alt="logo"></footer>
+	</body>
+
+
+</html>

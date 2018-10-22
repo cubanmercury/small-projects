@@ -1,0 +1,67 @@
+ <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+<i class="fa fa-snapchat-ghost"></i>
+<i class="fa fa-github-alt"></i>
+<i class="fa fa-google-plus"></i>
+<i class="fa fa-twitter"></i>
+
+closed star: &#9733;
+open star: &#9734;
+
+<!-- Class 1  -->
+<!--The Complete Artificial Neural Networks Developer Course -->
+src="img/artificial_neural_networks_developer_course.png"
+
+
+
+<!-- Class 2 -->
+<!-- Unity Game Development Mini-Degree -->
+src="img/unity_game_development_mini-degree.png"
+
+
+
+<!-- Class 3 -->
+<!-- Full-Stack Web Development Mini-Degree -->
+src="img/full-stack_web_development_mini-degree.png"
+
+
+
+<!-- Class 4 -->
+<!-- Learn Python Programming by Making a Game -->
+src="img/learn_python_programming_by_making_a_game.png"
+
+
+
+<!-- Class 5 -->
+<!-- The Complete Mobile Game Development Course – Platinum Edition -->
+src="img/complete_mobile_game_development_course.jpg"
+
+
+
+<!-- Class 6 -->
+<!-- Advanced Game Development with Phaser – Build Multiplayer Games -->
+src="img/game_development_with_phaser.png
+
+
+
+<!-- Class 7 -->
+<!-- Virtual Reality Mini-Degree – Create 15 VR Games with Unity -->
+src="img/virtual_reality_mini-degree.png"
+
+
+
+<!-- Class 8 -->
+<!-- Python Mini-Degree – 12 Courses to Learn and Master Python -->
+src="img/python_mini-degree.png"
+
+
+
+<!-- Class 9 -->
+<!-- Version Control with Git and Github -->
+src="img/version-control-with-git-and-github.png"]
+
+
+
+

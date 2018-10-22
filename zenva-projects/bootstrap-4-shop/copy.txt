@@ -1,0 +1,98 @@
+*********** TITLE
+
+ZENVA Example Shop Homepage
+
+<!-- Footer -->
+
+Twitter fa fa-twitter fa-fw
+Github fa fa-github fa-fw
+Google+ fa fa-google-plus fa-fw
+
+
+Whoever. It sure is fun to create web sites.
+
+"Tell me and I forget, teach me and I may remember, involve me and I learn." -Benjamin Franklin
+
+
+Left double quote &ldquo;
+Right double quote &rdquo;
+dash &mdash;
+
+
+<!-- NAVBAR -->
+
+Zenva Academy
+GameDev Academy
+All Courses
+
+
+
+<!-- Class 1  -->
+<!--The Complete Artificial Neural Networks Developer Course -->
+
+You want to learn about Artificial Intelligence but not sure where to start? Gain a strong foundation in the field of AI while learning the most common used algorithms and how to improve them.
+
+
+
+
+<!-- Class 2 -->
+<!-- Unity Game Development Mini-Degree -->
+
+Become a Professional Game Programmer. Go from Zero to Creating Your Own Games with Unity. Build 2D, 3D, Mobile, Virtual Reality and Augmented Reality Games!
+
+
+
+
+<!-- Class 3 -->
+<!-- Full-Stack Web Development Mini-Degree -->
+
+From Zero to Full-Stack Engineer. Build Web Apps with HTML5, JavaScript, NodeJS, MongoDB, React, GraphQL, Angular, Git, AWS, Azure.
+
+
+
+
+<!-- Class 4 -->
+<!-- Learn Python Programming by Making a Game -->
+
+Have you ever wanted to learn to program in the highly in demand Python programming language? This course will do just that, through creating a game similar to Crossy Road or Frogger!
+
+
+
+
+<!-- Class 5 -->
+<!-- The Complete Mobile Game Development Course – Platinum Edition -->
+
+Hands-on online course to learn iOS and Android Game Development from total scratch! Learn JavaScript, HTML5, Phaser and Cordova.
+
+
+
+
+<!-- Class 6 -->
+<!-- Advanced Game Development with Phaser – Build Multiplayer Games -->
+
+Become a Black Belt Phaser developer and create advanced games. Multiplayer included!
+
+
+
+
+<!-- Class 7 -->
+<!-- Virtual Reality Mini-Degree – Create 15 VR Games with Unity -->
+
+Become a professional VR developer. Learn to code and create 15 immersive games in Unity from the ground up. No prior programming experience is necessary to enroll.
+
+
+
+
+<!-- Class 8 -->
+<!-- Python Mini-Degree – 12 Courses to Learn and Master Python -->
+
+From Zero to Expert. Learn Computer Vision, Machine Learning, Deep Learning, Game Development and Internet of Things (IoT) App Development.
+
+
+
+
+<!-- Class 9 -->
+<!-- Version Control with Git and Github -->
+
+Learn about git – the most used version control system today and use it to keep a clean history of your projects, collaborate with your team or create your own online portfolio with this powerful tool!
+
