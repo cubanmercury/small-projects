@@ -1,0 +1,106 @@
+*********** TITLE
+
+Zenva - Learning Bootstrap 4
+
+<!-- Nav Bar -->
+
+ZENVA
+About
+Gallery
+Contact
+
+<!-- Intro Header -->
+
+Bootstrap 4
+
+Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
+
+Double down arrow: fa fa-angle-double-down
+
+<!-- About Section -->
+
+About Bootstrap
+
+Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+
+Bootstrap is the second most-starred project on GitHub, with more than 121,000 stars.
+
+This site features stock photos by Pexels.
+
+A big shout-out to all the photographers!
+
+
+EMOJICON CODES
+
+Boot: &#x1F462;
+Star: &#x2B50;
+Camera: &#x1f4f7;
+
+<!-- Documentation Section -->
+
+DOCUMENTATION
+
+Looking to quickly add Bootstrap to your project?
+
+Find Out How!
+
+ <!-- Gallery Content -->
+
+Gallery
+
+Alerts
+Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.
+
+Badges
+Documentation and examples for badges, our small count and labeling component.
+
+Breadcrumbs
+Indicate the current page’s location within a navigational hierarchy that automatically adds separators via CSS.
+
+Buttons
+Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.
+
+Cards
+Bootstrap's cards provide a flexible and extensible content container with multiple variants and options.
+
+Carousel
+A slideshow component for cycling through elements—images or slides of text—like a carousel.
+
+
+Right single quote: &rsquo;
+
+
+<!-- Contact Section -->
+
+Contact ZENVA
+
+Here’s a quick example of a Bootstrap form style.
+
+placeholder="Enter email"
+
+
+We'll never share your email with anyone else.
+
+Password
+
+Check me out
+
+Submit
+
+
+Twitter fa fa-twitter fa-fw
+Github fa fa-github fa-fw
+Google+ fa fa-google-plus fa-fw
+
+
+Whoever. It sure is fun to create web sites.
+
+"Tell me and I forget, teach me and I may remember, involve me and I learn." -Benjamin Franklin
+
+
+Left double quote &ldquo;
+Right double quote &rdquo;
+dash &mdash;
+
+
+

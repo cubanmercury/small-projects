@@ -1,0 +1,221 @@
+body{
+	background-color: #ffffff;
+	font-family: 'Bai Jamjuree', sans-serif;
+	color: #131633;
+	font-size: 16px;
+	padding: 0px;
+	margin: 0px;
+}
+
+a{
+	color: white;
+}
+ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+h3.title{
+	color: #131633;
+	text-transform: capitalize;
+	font-size: 2rem;
+	margin-top: 0px;
+	margin-bottom: 35px;
+	padding-top: 30px; 
+	text-align: center;
+}
+
+hr{
+	width: 300px;
+	background-color: #131633;
+	height: 2px;
+	border: 0;
+	margin:40px auto;
+}
+/*-----------------------------------------------------------
+HERO
+------------------------------------------------------------*/
+
+#hero{
+	text-align: center;
+	text-shadow: 2px 2px #000;
+	text-transform: capitalize;
+
+	display: flex;
+	flex-flow: column wrap;
+	justify-content: center;
+	align-items: center;
+
+	background-image: url('img/liquicity7.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100vh;
+	background-position: center;
+}
+
+#hero h1{
+	font-size: 4rem;
+	margin-bottom: 15px;
+	color: white;
+}
+
+#hero h3{
+	font-size: 1.8rem;
+	margin-bottom: 30px;
+	color: white;
+}
+
+@media(max-width: 800px){
+	#hero{
+		min-height: 600px;
+	}
+
+	#hero h1{
+		font-size: 2.2rem;
+	}
+
+	#hero h3{
+		font-size: 1.2rem;
+	}
+}
+
+
+/*-----------------------------------------------------------
+QUOTES
+------------------------------------------------------------*/
+ 
+#quotes{
+	text-align: center;
+	padding-bottom: 40px;
+	background-color: #fafafa;
+}
+
+#quotes p.portrait img{
+	border-radius: 50%;
+	border: 3px solid #274d79;
+	height: 100px;
+	margin-bottom: 10px;
+}
+
+#quotes p.quote{
+	font-size: 1.4rem;
+	margin-bottom: 20px;
+	font-weight: 400;
+	line-height: 1.5;
+}
+
+#quotes p.author{
+	margin: 20px auto;
+}
+
+@media(max-width: 1000px){
+	#quotes p.quote{
+		font-size: 18px;
+		padding: 0 20px;
+	}
+
+	#quotes .author{
+		font-size: 14px;
+	}
+}
+
+/*-----------------------------------------------------------
+GALLERY
+------------------------------------------------------------*/
+
+#gallery .grid{
+	justify-content: center;
+	flex-flow: row wrap;
+	display: flex;
+	width: 100%;
+}
+
+#gallery .grid li{
+	padding: 20px;
+	height: 350px;
+	border-radius: 3px;
+	
+	background-clip:content-box;
+	background-size: cover;
+	background-position: center;
+}
+
+#gallery .grid li.small{
+	flex-basis: 35%;
+}
+
+#gallery .grid li.large{
+	flex-basis: 55%;
+}
+
+#gallery p{
+	max-width: 800px;
+	text-align: center;
+	padding: 0 20px;
+	margin: 0 auto 35px;
+}
+
+@media(max-width: 1000px){
+	#gallery .grid li.small,
+	#gallery .grid li.large{
+		flex-basis: 100%;
+	}
+}
+
+
+
+
+/*-----------------------------------------------------------
+FOOTER
+------------------------------------------------------------*/
+
+footer{
+	padding: 50px 0;
+	flex-flow: column wrap;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	background: linear-gradient(to bottom, #284e7a,#000 100%);
+}
+
+footer ul{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	padding: 40px 30px;
+}
+
+footer ul li{
+	padding:0 20px;
+}
+
+footer ul li a{
+	font-size: 2rem;
+}
+
+footer ul li a:hover{
+	color: gray;
+}
+
+footer p{
+	margin-bottom: 15px;
+	color: white;
+}
+
+#copyright{
+	align-self: flex-end;
+	margin:50px 50px 0 0;
+	text-align: right;
+}
+
+@media(max-width: 800px){
+	footer{
+		padding: 80px 20px;
+	}
+
+	#copyright{
+		margin-right: 10px;
+	}
+
+}
